@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNNet", "CNNet.csproj", "{0FAB6E98-F3A4-42B5-BA63-2F701A8236AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SONExample", "examples\SONExample\SONExample.csproj", "{81D5A522-D92B-4D81-A36B-08BB9FF0300D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAMExample", "examples\BAMExample\BAMExample.csproj", "{05977CD9-32C1-4101-9B5E-B29C83EED59D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FAB6E98-F3A4-42B5-BA63-2F701A8236AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAB6E98-F3A4-42B5-BA63-2F701A8236AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAB6E98-F3A4-42B5-BA63-2F701A8236AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAB6E98-F3A4-42B5-BA63-2F701A8236AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D5A522-D92B-4D81-A36B-08BB9FF0300D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D5A522-D92B-4D81-A36B-08BB9FF0300D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D5A522-D92B-4D81-A36B-08BB9FF0300D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D5A522-D92B-4D81-A36B-08BB9FF0300D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05977CD9-32C1-4101-9B5E-B29C83EED59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05977CD9-32C1-4101-9B5E-B29C83EED59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05977CD9-32C1-4101-9B5E-B29C83EED59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05977CD9-32C1-4101-9B5E-B29C83EED59D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
